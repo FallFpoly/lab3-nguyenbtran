@@ -13,6 +13,7 @@ import java.util.Scanner;
 public class bai3 {
 
     public static void main(String[] args) {
+        System.out.print("Nguyễn Phạm Bảo Trân");
         Scanner sc = new Scanner(System.in);
 
         // Nhập số phần tử của mảng
