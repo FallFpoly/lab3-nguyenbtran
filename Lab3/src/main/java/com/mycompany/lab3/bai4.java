@@ -16,6 +16,7 @@ class SinhVien {
 
     // Phương thức nhập
     public void nhap(Scanner sc) {
+        System.out.print("Nguyễn Phạm Bảo Trân");
         System.out.print("Nhap ho ten: ");
         sc.nextLine(); // tránh lỗi khi nhập chuỗi
         this.hoten = sc.nextLine();
