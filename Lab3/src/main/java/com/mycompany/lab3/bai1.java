@@ -13,6 +13,7 @@ import java.util.Scanner;
 public class bai1 {
 
     public static void main(String[] args) {
+        System.out.print("Nguyễn Phạm Bảo Trân");
          Scanner sc = new Scanner(System.in);
         System.out.print("Nhap so can kiem tra ");
         int N = sc.nextInt();
